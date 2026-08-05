@@ -30,7 +30,7 @@ This folder contains implementations and notebooks related to supervised machine
 - Hyperparameter Tuning
 - Cross Validation
 - Feature Engineering
-- and more..
+- and more.....
 
 ---
 
